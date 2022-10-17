@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Layer_x0020_1" transform="translate(0.264 0.533)">
+    <path id="Path_1736" data-name="Path 1736" d="M16,0A16,16,0,1,1,0,16,16,16,0,0,1,16,0Z" transform="translate(0.236 -0.033)" fill="none" stroke="#163df9" stroke-width="1"/>
+    <g id="Group_831" data-name="Group 831" transform="translate(7.823 6.355)">
+      <path id="Path_1730" data-name="Path 1730" d="M283.665,268.666H281.41v-4.43a2.336,2.336,0,1,0-4.671,0v4.43h-2.255a.49.49,0,0,1-.483-.483v-14.7a.465.465,0,0,1,.483-.483h9.182a.465.465,0,0,1,.483.483v14.7A.49.49,0,0,1,283.665,268.666Zm-3.947-2.94a.26.26,0,0,0,.242-.242V264.8a.242.242,0,0,0-.483,0v.685A.26.26,0,0,0,279.719,265.726Zm1.893-10.309Zm-.685,13.249h-3.7v-4.43a1.853,1.853,0,1,1,3.7,0Z" transform="translate(-271.141 -249.174)" fill="#163df9" fill-rule="evenodd"/>
+      <path id="Path_1731" data-name="Path 1731" d="M537.014,306.095H535a1.071,1.071,0,0,0,.121-.483V292.524a3.488,3.488,0,0,1,1.893-.524.49.49,0,0,1,.483.483v13.128A.52.52,0,0,1,537.014,306.095Z" transform="translate(-521.63 -286.604)" fill="#163df9" fill-rule="evenodd"/>
+      <path id="Path_1732" data-name="Path 1732" d="M205.5,306.095h-2.014a.52.52,0,0,1-.483-.483V292.483a.49.49,0,0,1,.483-.483,3.488,3.488,0,0,1,1.893.524v13.088A1.072,1.072,0,0,0,205.5,306.095Z" transform="translate(-203 -286.604)" fill="#163df9" fill-rule="evenodd"/>
+      <path id="Path_1735" data-name="Path 1735" d="M296,161.343a4.3,4.3,0,0,1,8.376,0Z" transform="translate(-292.255 -158)" fill="#163df9" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

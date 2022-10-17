@@ -1,0 +1,47 @@
+PODS:
+  - Capacitor (3.5.1):
+    - CapacitorCordova
+  - CapacitorApp (1.1.1):
+    - Capacitor
+  - CapacitorCordova (3.5.1)
+  - CapacitorGeolocation (1.3.1):
+    - Capacitor
+  - CapacitorNetwork (1.0.7):
+    - Capacitor
+    - ReachabilitySwift (~> 5.0)
+  - ReachabilitySwift (5.0.0)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorApp (from `../../node_modules/@capacitor/app`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorGeolocation (from `../../node_modules/@capacitor/geolocation`)"
+  - "CapacitorNetwork (from `../../node_modules/@capacitor/network`)"
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorApp:
+    :path: "../../node_modules/@capacitor/app"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorGeolocation:
+    :path: "../../node_modules/@capacitor/geolocation"
+  CapacitorNetwork:
+    :path: "../../node_modules/@capacitor/network"
+
+SPEC CHECKSUMS:
+  Capacitor: a13a4a985bf4e3eac033c74848c77ff29dfa13ca
+  CapacitorApp: 6539a37b671391147dd0180e1483c051077254bf
+  CapacitorCordova: 9305ba1d3c73fa7271f5b2c3ca8a92ea76b56c74
+  CapacitorGeolocation: 184809324d0bb80c664a157489127fd5db6be067
+  CapacitorNetwork: 185fc56570cfd4e3d41119d3ccd2a3ab3bd07806
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+
+PODFILE CHECKSUM: 31b8d47e1bb5935ea2800d0e72eff7cde3035b53
+
+COCOAPODS: 1.11.2

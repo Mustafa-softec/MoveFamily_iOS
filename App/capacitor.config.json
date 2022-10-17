@@ -1,0 +1,6 @@
+{
+	"appId": "com.familyrider.com",
+	"appName": "Family Rider",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
